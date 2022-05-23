@@ -31,3 +31,13 @@ I’ve been working within the health and wellness industry for 7+ years, wearin
                           
   <a href="https://www.github.com/kaiguy920" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/smithkai920" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+
+   ### GitHub Analytics 
+
+<a href="https://github.com/kaiguy920/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiguy920&theme=gotham&show_icons=true&layout=compact&custom_title=Kai's%20GitHub%20Stats&line_height=20" />
+</a>
+<a href="https://github.com/kaiguy920/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiguy920&theme=gotham&show_icons=true&layout=compact" />
+</a>
