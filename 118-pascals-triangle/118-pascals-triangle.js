@@ -3,25 +3,14 @@
  * @return {number[][]}
  */
 var generate = function(numRows) {
-     const pascalsTriangles = [];
-    if (numRows === 0) {
-        return pascalsTriangles;
-    }
-
-    pascalsTriangles.push([1]);
-    let last = [];
-    while (pascalsTriangles.length < numRows) {
-        let newEntry = [];
-        newEntry[0] = 1;
-
-
-        for (let i = 0; i < last.length - 1; i++) {
-            newEntry[i + 1] = last[i] + last[i + 1];
+  if(numRows === 0) return [];
+    const res = [[1]];
+    if(numRows === 1) return res;
+    for (let i = 1; i < numRows; i++) {
+        res[i] = new Array(i+1).fill(1);
+        for (let j = 1; j < res[i].length-1; j++) {
+            res[i][j] = res[i-1][j-1] + res[i-1][j];
         }
-        newEntry.push(1);
-        pascalsTriangles.push(newEntry);
-        last = newEntry;
     }
-    // console.log(pascalsTriangles)
-    return pascalsTriangles;
+    return res;
 };
