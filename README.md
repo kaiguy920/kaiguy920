@@ -4,7 +4,9 @@ Hi 👋 My name is Kai (he/him)
 Software Engineer
 -----------------
 
-I’ve been working within the health and wellness industry for 7+ years, wearing many hats that have included leadership roles, marketing strategy, sales, branding, and more. I have a tract record of being a key contributor in a team setting and exceeding expectations. Given my background and skill sets, I am pivoting my career focus to software engineering, to leverage my career path in an industry that has proven time and again its value in being an essential component to business and society.
+I’ve been working within the health and wellness industry for 7+ years, wearing many hats that have included leadership roles, marketing strategy, sales, branding, and more. 
+
+I am currently working within the fintech field as a QA automation engineer.
 
 *   🌍  I'm based in Orlando, Fl
 *   🖥️  See my portfolio at [https://www.kai-smith.com/](http://www.kai-smith.com/)
